@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	BOTTOKEN = "5300131496:AAFb9regAsI0lmI1cS3qh5CEE13KvC86PJE"
+	BOTTOKEN = "YourBotID"
 	BOTAPI   = "https://api.telegram.org/bot"
 	URL      = BOTAPI + BOTTOKEN
 )
